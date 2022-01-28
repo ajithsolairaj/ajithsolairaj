@@ -12,7 +12,7 @@
       e-mail :- ajithsolairaj@gmail.com
       contact no :- 7907151404
 
-<!---
+
     -------
     MISSION : 
     -------
@@ -31,5 +31,4 @@
    -----
             To build a outstanding career in the field of web development and To outreach great minds and great aspirants 
             in the IT field and To lead a team in smart, innovative and efficient manner
-             
---->
+           
