@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ajithsolairaj
+- 👋 Hi, I’m ** @ajithsolairaj**
 
 - 👀 I’m interested in Web Development (responsive web design and progressive web app)
 
