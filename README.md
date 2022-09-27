@@ -1,10 +1,10 @@
 - 👋 Hi, I’m ** @ajithsolairaj**
 
-- 👀 I’m interested in Web Development (responsive web design and progressive web app)
+- 👀 I’m interested in Web Development (NodeJs Backend)
 
-- 🌱 I’m currently learning Reactjs
+- 🌱 I’m currently learning Nodejs
 
-- 💞️ I’m looking to collaborate on startup companies with high tech teams where i can learn,understand and implement 
+- 💞️ I’m looking forward to work on startup companies with high tech teams where i can learn,understand and implement 
       the knowledge and skills(vice-versa) to get the best experience to build my career to a high disciplined,effecient
       and well experienced developer.
 
