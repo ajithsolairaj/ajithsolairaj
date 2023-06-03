@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in Web Development (NodeJs Backend)
 
-- 🌱 I’m currently learning Nodejs
+- 🌱 I’m currently learning Nestjs
 
 - 💞️ I’m looking forward to work on startup companies with high tech teams where i can learn,understand and implement 
       the knowledge and skills(vice-versa) to get the best experience to build my career to a high disciplined,effecient
