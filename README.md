@@ -39,9 +39,9 @@
     -------
     MISSION : 
     -------
-                    To excel as a proficient backend developer specializing in Node.js, AWS, and cloud technologies, where my expertise 
-                    and collaborative efforts significantly contribute to delivering scalable and reliable backend solutions, 
-                    prioritizing efficiency and innovation.
+                    To excel as a proficient backend developer specializing in Node.js, AWS, and cloud technologies, where 
+                    my expertise and collaborative efforts significantly contribute to delivering scalable and reliable 
+                    backend solutions, prioritizing efficiency and innovation.
 
               
    ------
@@ -55,5 +55,6 @@
    GOALS :
    -----
             To build a outstanding career in the field of backend development, multi-cloud computing & devops practices and 
-            To outreach great minds and great aspirants in the IT field and To lead a team in smart, innovative and efficient manner
+            To outreach great minds and great aspirants in the IT field and To lead a team in smart, innovative and 
+            efficient manner.
            
