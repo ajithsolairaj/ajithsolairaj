@@ -39,19 +39,21 @@
     -------
     MISSION : 
     -------
-              To become a outstanding full stack web developer, where me and my team contribution plays a major role  to 
-              experience the best and comfort in using our web apps with the implementation of responsive web design and 
-              great User experience.
+                    To excel as a proficient backend developer specializing in Node.js, AWS, and cloud technologies, where my expertise 
+                    and collaborative efforts significantly contribute to delivering scalable and reliable backend solutions, 
+                    prioritizing efficiency and innovation.
+
               
    ------
    VISION :
    ------
-             The ability to contribute and to create a interactive web pages using current cutting edge technologies and
-             to keep myself up-to-date of new technologies that are ahead in the web development market.
+             To leverage my skills in Node.js and AWS to architect robust backend systems, incorporating cutting-edge
+              technologies to optimize performance and scalability. I aspire to stay ahead of industry trends, continuously
+              expanding my knowledge in backend development and cloud computing.
              
    -----
    GOALS :
    -----
-            To build a outstanding career in the field of web development and To outreach great minds and great aspirants 
-            in the IT field and To lead a team in smart, innovative and efficient manner
+            To build a outstanding career in the field of backend development, multi-cloud computing & devops practices and 
+            To outreach great minds and great aspirants in the IT field and To lead a team in smart, innovative and efficient manner
            
